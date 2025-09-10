@@ -1,16 +1,53 @@
-## Hi there 👋
+<!-- Profile README -->
 
-<!--
-**michelleaijo/michelleaijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Michelle</h1>
+<h3 align="center">Building cool stuff with MERN & AI 🤖</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MichelleAijo&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <a href="https://github.com/MichelleAijo?tab=followers">
+    <img src="https://img.shields.io/github/followers/MichelleAijo?label=Followers&style=social" alt="followers"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🌱 Currently learning **MERN Stack & AI/ML**
+- 💡 Passionate about building **chatbots & full-stack apps**
+- 🎯 Goal: To contribute to **open-source** & build impactful projects
+- ⚡ Fun fact: I can debug faster with coffee ☕  
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,fastapi,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MichelleAijo&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelleAijo&layout=compact&theme=radical" height="180"/>
+</p>
+
+---
+
+### 🌐 Connect with me
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">✨ Let’s build something amazing together! ✨</p>
