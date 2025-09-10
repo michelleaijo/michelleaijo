@@ -13,10 +13,10 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **MERN Stack & AI/ML**
-- 💡 Passionate about building **chatbots & full-stack apps**
-- 🎯 Goal: To contribute to **open-source** & build impactful projects
-- ⚡ Fun fact: I can debug faster with coffee ☕  
+- 🌱 Currently learning **Software Development**
+- 💡 Passionate about building **cool things that make you go wowwwww.**
+- 🎯 Goal: To contribute to **open-source** & build the best stuff ever
+- ⚡ Fun fact: I can debug faster with coffee ☕
 
 ---
 
