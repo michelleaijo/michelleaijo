@@ -1,7 +1,7 @@
 <!-- Profile README -->
 
 <h1 align="center">Hi 👋, I'm Michelle</h1>
-<h3 align="center">Building cool stuff with MERN & AI 🤖</h3>
+<h3 align="center">I love building stuff that makes you go "daaaaamnn"</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MichelleAijo&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
@@ -14,13 +14,13 @@
 
 ### 🚀 About Me
 - 🌱 Currently learning **Software Development**
-- 💡 Passionate about building **cool things that make you go wowwwww.**
-- 🎯 Goal: To contribute to **open-source** & build the best stuff ever
-- ⚡ Fun fact: I can debug faster with coffee ☕
+- 💡 Passionate about building **cool things that make me happy.**
+- 🎯 Goal: To build the best most useful stuff ever.
+- ⚡ Fun fact: Coffee makes me gag, and it makes me code at the speed of light.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stacks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,c,cpp,python,git,github,vscode,html,css" />
 </p>
