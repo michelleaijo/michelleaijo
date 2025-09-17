@@ -13,8 +13,8 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **Software Development**
-- 💡 Passionate about building **cool things that make me happy.**
+- 🌱 Currently learning how to get the bag.
+- 💡 I love cool things that make me happy like blue icecream.
 - 🎯 Goal: To build the best most useful stuff ever.
 - ⚡ Fun fact: Coffee makes me gag, and it makes me code at the speed of light.
 
