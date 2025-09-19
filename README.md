@@ -67,6 +67,10 @@
 </p>
 
 
+  (\_/)  
+  (o.o)  < Coffee time!
+  (> <)☕
+
 
 ### 📊 GitHub Stats
 <p align="center">
