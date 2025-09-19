@@ -4,6 +4,13 @@
   Builder • Designer • ThinkPad enjoyer • Open Source lover
 </h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Builder-%23ff6ec4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Designer-%237873f5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ThinkPad%20Enjoyer-%2300c853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source%20Lover-%230e75b6?style=for-the-badge"/>
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MichelleAijo&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
