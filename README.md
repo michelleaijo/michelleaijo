@@ -5,10 +5,8 @@
   <img src="https://img.shields.io/badge/Builder-%23800080?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Designer-%235000a0?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/ThinkPad%20Enjoyer-%23330033?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open%20Source%20Lover-%23111111?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20Source%20Lover-%23E6E6FA?style=for-the-badge&logoColor=white"/>
 </p>
-
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MichelleAijo&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
