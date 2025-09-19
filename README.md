@@ -19,18 +19,18 @@
 ---
 
 ### 🚀 About Me
-- 💻 I have an unhealthy obsession with **ThinkPads**.
-- 🌱 Exploring the full stack: **UI/UX design → frontend → backend → APIs**.
-- 📚 Big on **books, philosophy, and clean design**.
-- 🖤 Into open-source, leather boots, and stuff that just *feels right*.
-- 🎯 Goal: To create things that make people go *“damn, that’s good.”*
-- ⚡ Fun fact: Coffee makes me gag, but it also makes me code like I’m on turbo mode.
+- 💻 I have an unhealthy (minty) obsession with **ThinkPads**.
+- 📦 “Front to back, I stack it all.”.
+- 📓 Big on **books, philosophy, and clean design**.
+- 🏴‍☠️ Into open-source, because sailing the seven seas just *feels right*.
+- 🛡️ Goal: To create things that make people go *“damnnnn, that’s good.”*
+- 😜 Fun fact: Coffee makes me gag, but it also makes me code like I’m on turbo mode.
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,nodejs,express,mongodb,python,cpp,git,github,vscode,html,css,figma" />
+  <img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,dotnet,nodejs,express,mongodb,python,cpp,git,github,vscode,html,css" />
 </p>
 
 ---
