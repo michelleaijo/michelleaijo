@@ -1,6 +1,6 @@
 <!-- Profile README -->
 
-<h1 align="center">Hi 👋, I'm Michelle</h1>
+<h1 align="center">Hi, I'm Michelle</h1>
 <h3 align="center">I love building stuff that makes you go "daaaaamnn"</h3>
 
 <p align="center">
