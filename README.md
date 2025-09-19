@@ -76,7 +76,7 @@
 
 ### 🌐 Connect with me
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="[https://www.linkedin.com/in/michelle-a-956893253/]" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%23800080?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/your-twitter" target="_blank">
