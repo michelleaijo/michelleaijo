@@ -29,32 +29,33 @@
 <p align="center">
   <!-- Frontend -->
   <strong>Frontend</strong><br>
-  <img src="https://img.shields.io/badge/Angular-%237B1FA2?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-%238E24AA?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-%239C27B0?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%238D6CAB?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-%237D4BA0?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%238C4DAA?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-%239000D6?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-%23B347FF?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-%23AA00FF?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%238500FF?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-%239000FF?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%23A64DFF?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 <p align="center">
   <!-- Backend -->
   <strong>Backend</strong><br>
-  <img src="https://img.shields.io/badge/Node.js-%236A1B9A?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-%236E2FA5?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-%237B1FA2?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%238E24AA?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-%239C27B0?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-%236600CC?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-%238000FF?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-%239966FF?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%23B266FF?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-%237D00FF?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
 <p align="center">
   <!-- Database & Tools -->
   <strong>Database & Tools</strong><br>
-  <img src="https://img.shields.io/badge/MongoDB-%23854DB0?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%239C27B0?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%237B1FA2?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-%238E24AA?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%238C33FF?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-%239966FF?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23A64DFF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-%23B266FF?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
+
 
 
 ### 📊 GitHub Stats
