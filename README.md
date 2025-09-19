@@ -67,9 +67,10 @@
 </p>
 
 ```
-  (\_/)                       (\_/)                   (\_/)                  (\_/)
-  (o.o) Coffee time!          (•_•) Heart time        (•_•)   Code time.     (•_•)  Study time
-  (> <)☕                     />💖                   / >💻                  / >📓    
+  (\_/)                       (\_/)                   (\_/)                  (\_/)                 (\_/) 
+  (o.o) Coffee time!          (•_•) Heart time        (•_•)   Code time.     (•_•)  Study time     (•_•) Music Time      
+  (> <)☕                     />💖                   / >💻                  / >📓                / >🎵
+
 ```
 
 ### 📊 GitHub Stats
