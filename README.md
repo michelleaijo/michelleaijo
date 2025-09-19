@@ -1,7 +1,14 @@
 <!-- Profile README -->
 
-<h1 align="center">Hi, I'm Michelle</h1>
-<h3 align="center">I love building stuff that makes you go "daaaaamnn"</h3>
+<h1 align="center">Hey, I'm Michelle 👋</h1><h3 align="center" style="
+  background: linear-gradient(90deg, #ff6ec4, #7873f5);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+">
+  Builder • Designer • ThinkPad enjoyer • Open Source lover
+</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MichelleAijo&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
@@ -13,16 +20,18 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning how to get the bag.
-- 💡 I love cool things that make me happy like blue icecream.
-- 🎯 Goal: To build the best most useful stuff ever.
-- ⚡ Fun fact: Coffee makes me gag, and it makes me code at the speed of light.
+- 💻 I have an unhealthy obsession with **ThinkPads**.
+- 🌱 Exploring the full stack: **UI/UX design → frontend → backend → APIs**.
+- 📚 Big on **books, philosophy, and clean design**.
+- 🖤 Into open-source, leather boots, and stuff that just *feels right*.
+- 🎯 Goal: To create things that make people go *“damn, that’s good.”*
+- ⚡ Fun fact: Coffee makes me gag, but it also makes me code like I’m on turbo mode.
 
 ---
 
-### 🛠️ Tech Stacks
+### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,c,cpp,python,git,github,vscode,html,css" />
+  <img src="https://skillicons.dev/icons?i=angular,react,nodejs,express,mongodb,python,cpp,git,github,vscode,html,css,figma" />
 </p>
 
 ---
@@ -50,4 +59,4 @@
 
 ---
 
-<p align="center">✨ Let’s build something amazing together! ✨</p>
+<p align="center">✨ I build, I break, I learn, I design — let’s make cool stuff together. ✨</p>
