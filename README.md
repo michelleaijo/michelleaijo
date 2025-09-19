@@ -28,7 +28,7 @@
 
 ### 🚀 About Me
 - 💻 I have an unhealthy (minty) obsession with **ThinkPads**.
-- 📦 “Front to back, I stack it all.”
+- 📦 Front to back, I stack it all.
 - 📓 Big on **books, philosophy, and clean design**.
 - 🏴‍☠️ Into open-source, because sailing the seven seas just *feels right*.
 - 🛡️ Goal: To create things that make people go *“damnnnn, that’s good.”*
