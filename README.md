@@ -15,8 +15,6 @@
   </a>
 </p>
 
----
-
 ### 🚀 About Me
 - 💻 I have an unhealthy (minty) obsession with **ThinkPads**.
 - 📦 “Front to back, I stack it all.”.
@@ -25,22 +23,16 @@
 - 🛡️ Goal: To create things that make people go *“damnnnn, that’s good.”*
 - 😜 Fun fact: Coffee makes me gag, but it also makes me code like I’m on turbo mode.
 
----
-
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,dotnet,nodejs,express,mongodb,python,cpp,git,github,vscode,html,css" />
 </p>
-
----
 
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MichelleAijo&show_icons=true&theme=radical" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelleAijo&layout=compact&theme=radical" height="180"/>
 </p>
-
----
 
 ### 🌐 Connect with me
 <p align="center">
@@ -54,7 +46,5 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
 
 <p align="center">✨ I build, I break, I learn, I design — let’s make cool stuff together. ✨</p>
