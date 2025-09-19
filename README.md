@@ -26,11 +26,6 @@
   </a>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&pause=500&color=9b59b6,8e44ad&center=true&vCenter=true&width=700&lines=Michelle+-+Fullstack+Dev+%26+Open+Source+Star"/>
-</h1>
-
-
 ### 🚀 About Me
 - 💻 I have an unhealthy (minty) obsession with **ThinkPads**.
 - 📦 Front to back, I stack it all.
