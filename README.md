@@ -1,9 +1,6 @@
 <!-- Profile README -->
 
-<h1 align="center">Hey, I'm Michelle 👋</h1><h3 align="center" style="color:#ff6ec4;">
-  Builder • Designer • ThinkPad enjoyer • Open Source lover
-</h3>
-
+<h1 align="center">Hey, I'm Michelle 👋</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Builder-%23ff6ec4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Designer-%237873f5?style=for-the-badge"/>
