@@ -68,7 +68,7 @@
 
 ```
   (\_/)  
-  (o.o)  < Coffee time!
+  (o.o) Coffee time!
   (> <)☕
 ```
 
