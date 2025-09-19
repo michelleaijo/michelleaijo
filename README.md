@@ -1,11 +1,6 @@
 <!-- Profile README -->
 
-<h1 align="center">Hey, I'm Michelle 👋</h1><h3 align="center" style="
-  background: linear-gradient(90deg, #ff6ec4, #7873f5);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  font-weight: bold;
-">
+<h1 align="center">Hey, I'm Michelle 👋</h1><h3 align="center" style="purple">
   Builder • Designer • ThinkPad enjoyer • Open Source lover
 </h3>
 
