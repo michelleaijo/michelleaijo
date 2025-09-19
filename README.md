@@ -2,11 +2,12 @@
 
 <h1 align="center">Hey, I'm Michelle 👋</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Builder-%23ff6ec4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Designer-%237873f5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ThinkPad%20Enjoyer-%2300c853?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20Source%20Lover-%230e75b6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Builder-%23800080?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Designer-%235000a0?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ThinkPad%20Enjoyer-%23330033?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20Source%20Lover-%23111111?style=for-the-badge&logoColor=white"/>
 </p>
+
 
 
 <p align="center">
