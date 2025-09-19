@@ -93,3 +93,11 @@
 </p>
 
 <p align="center">✨ I build, I break, I learn, I design — let’s make cool stuff together. ✨</p>
+
+
+```
+           .       *       .       ✨
+       .     .  *     🚀      .    .
+          .       👾          .     .
+      *    .      .      🌌       *
+```
