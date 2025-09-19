@@ -1,6 +1,6 @@
 <!-- Profile README -->
 
-<h1 align="center">Hey, I'm Michelle 👋</h1><h3 align="center" style="purple">
+<h1 align="center">Hey, I'm Michelle 👋</h1><h3 align="center" style="color:#ff6ec4;">
   Builder • Designer • ThinkPad enjoyer • Open Source lover
 </h3>
 
