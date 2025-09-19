@@ -79,22 +79,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelleAijo&layout=compact&theme=radical&title_color=E6E6FA&icon_color=800080" height="180"/>
 </p>
 
-### 💜 Galactic Achievements
-![Stars](https://img.shields.io/github/stars/michelle?style=for-the-badge&color=purple&label=Stars)
-![Forks](https://img.shields.io/github/forks/michelle?style=for-the-badge&color=8e44ad&label=Forks)
-![Contributions](https://img.shields.io/badge/💜-Cosmic%20Commits-9b59b6?style=for-the-badge)
-![Repositories](https://img.shields.io/github/repo-size/michelle?style=for-the-badge&color=purple&label=Repo%20Size)
-
-
-### 🌌 GitHub Console
-![Michelle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=michelle&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michelle&layout=compact&theme=dark&hide_border=true)
-
-
-### 👾 Cosmic Activity
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=michelle&theme=purple)
-
-
 ### 🌐 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/michelle-a-956893253/" target="_blank">
