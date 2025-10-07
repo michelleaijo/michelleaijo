@@ -32,7 +32,7 @@
 - 📓 Big on **books, philosophy, and clean design**.
 - 🏴‍☠️ Into open-source, because sailing the seven seas just *feels right*.
 - 🛡️ Goal: To create things that make people go *“damnnnn, that’s good.”*
-- 😜 Fun fact: Coffee makes me gag, but it also makes me code like I’m on turbo mode.
+- ☕ Fun fact: Coffee makes me gag, but it also makes me code like I’m on turbo mode.
 
 ### 🛠️ Tech Stack
 
